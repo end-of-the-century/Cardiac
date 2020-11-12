@@ -15,7 +15,7 @@ LVA&LAA.py is to calculate the area of the left ventricle(LV) and left atrium(LA
 # MVD&LVD
 MVD&LVD.py is to calculate the left ventricle long diameter (LVD) and the mitral value inner diameter (MVD).
 # LVV
-Calculate left Ventricular volume
+Calculate left ventricular volume
 
 # label_clinical
 Calculate labels for clinical metrics
